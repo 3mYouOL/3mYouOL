@@ -46,7 +46,7 @@ const Loume = {
     ],
     technologies: {
         frontEnd: {
-            js: ["Angular", "React"],
+            js: ["jQuery", "Angular", "React"],
             css: ["Sass", "TailWind", "Bootstrap"]
         },
         backEnd: {
