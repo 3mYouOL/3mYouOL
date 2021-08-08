@@ -22,12 +22,13 @@
 [![GitHub: 3mYouOL](https://img.shields.io/github/followers/3mYouOL?label=follow&style=social)](https://github.com/3mYouOL)
 
 ### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=3myouol&count_private=true&show_icons=true&theme=dark" alt="3mYouOL's Github Stats">
-
-### <img src="https://media.giphy.com/media/lTS1DjozKdTKhpH6lv/giphy.gif" width="50"> Some details about me...
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=3myouol&count_private=true&show_icons=true&theme=dark" alt="3mYouOL's Github Stats">
+<div>
 
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230" align="right">
+
+### <img src="https://media.giphy.com/media/lTS1DjozKdTKhpH6lv/giphy.gif" width="50"> Some details about me...
 
 ```javascript
 const Loume = {
@@ -45,7 +46,7 @@ const Loume = {
     ],
     technologies: {
         frontEnd: {
-            js: ["Angular", "React"]
+            js: ["Angular", "React"],
             css: ["Sass", "TailWind", "Bootstrap"]
         },
         backEnd: {
