@@ -21,7 +21,7 @@
 [![Linkedin: 3mYouOL](https://img.shields.io/badge/-3mYouOL-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/3myouol/)
 [![GitHub: 3mYouOL](https://img.shields.io/github/followers/3mYouOL?label=follow&style=social)](https://github.com/3mYouOL)
 
-### GitHub Stats
+### My GitHub Stats
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=3myouol&count_private=true&show_icons=true&theme=dark" alt="3mYouOL's Github Stats">
 <div>
