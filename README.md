@@ -1,4 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=3myouol&count_private=true&show_icons=true&theme=dark" alt="3mYouOL's Github Stats" align="right">
 <h2>
     Hiii~ I'm Loume <-> 3mYouOL
     <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="50">
@@ -22,9 +21,14 @@
 [![Linkedin: 3mYouOL](https://img.shields.io/badge/-3mYouOL-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/3myouol/)
 [![GitHub: 3mYouOL](https://img.shields.io/github/followers/3mYouOL?label=follow&style=social)](https://github.com/3mYouOL)
 
-<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230" align="right">
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=3myouol&count_private=true&show_icons=true&theme=dark" alt="3mYouOL's Github Stats">
 
 ### <img src="https://media.giphy.com/media/lTS1DjozKdTKhpH6lv/giphy.gif" width="50"> Some details about me...
+
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230" align="right">
+
 ```javascript
 const Loume = {
     pronouns: 'He' | 'Him',
@@ -59,17 +63,4 @@ const Loume = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
-<!--
-**3mYouOL/3mYouOL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
