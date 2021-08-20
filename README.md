@@ -16,10 +16,11 @@
     </em>
 </p>
 
-[![Twitter: 3mYouOL](https://img.shields.io/twitter/follow/3mYouOL?style=social)](https://twitter.com/3mYouOL)
-[![Discord: 3mYouOL](https://img.shields.io/badge/-3mYouOL-blue?style=flat-square&logo=Discord&logoColor=white)](https://discordapp.com/users/318716945652383744)
-[![Linkedin: 3mYouOL](https://img.shields.io/badge/-3mYouOL-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/3myouol/)
 [![GitHub: 3mYouOL](https://img.shields.io/github/followers/3mYouOL?label=follow&style=social)](https://github.com/3mYouOL)
+[![Twitter: 3mYouOL](https://img.shields.io/twitter/follow/3mYouOL?style=social)](https://twitter.com/3mYouOL)
+[![Linkedin: 3mYouOL](https://img.shields.io/badge/-3mYouOL-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/3myouol/)
+[![Discord: 3mYouOL](https://img.shields.io/badge/-3mYouOL-blue?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/318716945652383744)
+[![StackOverflow: 3mYouOL](https://img.shields.io/badge/-3mYouOL-orange?style=flat&logo=StackOverflow&logoColor=gray)](https://stackoverflow.com/users/12389225/3myouol)
 
 ### My GitHub Stats
 <div>
