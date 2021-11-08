@@ -55,7 +55,7 @@ const Loume = {
         },
         mobileApp: {
             native: ["Android Development"],
-            ui-toolkit: ["Flutter"]
+            uiToolkit: ["Flutter"]
         },
         databases: ["mySQL"]
     },
