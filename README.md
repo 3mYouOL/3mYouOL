@@ -54,7 +54,8 @@ const Loume = {
             php: ["Laravel"]
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["Android Development"],
+            ui-toolkit: ["Flutter"]
         },
         databases: ["mySQL"]
     },
