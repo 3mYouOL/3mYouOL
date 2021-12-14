@@ -51,7 +51,8 @@ const Loume = {
             css: ["Sass", "TailWind", "Bootstrap"]
         },
         backEnd: {
-            php: ["Laravel"]
+            php: ["Laravel"],
+            js: ["Node.js"]
         },
         mobileApp: {
             native: ["Android Development"],
