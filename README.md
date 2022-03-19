@@ -3,6 +3,9 @@
     <img src="https://media.giphy.com/media/4QZK21zlzVIyc/giphy.gif" width="50">
     <br>
     Nice to meet you~
+    <a href="https://www.codewars.com/users/3mYouOL">
+        <img src="https://www.codewars.com/users/3mYouOL/badges/small" align="right">
+    </a>
 </h2>
 <p>
     <em>
@@ -25,6 +28,9 @@
 ### My GitHub Stats
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=3myouol&count_private=true&show_icons=true&theme=dark" alt="3mYouOL's Github Stats">
+<div>
+<div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mYouOL&theme=dark" alt="3mYouOL's Github Stats">
 <div>
 
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230" align="right">
