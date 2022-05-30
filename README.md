@@ -13,9 +13,11 @@
         <a href="https://www.upv.edu.ph">UPV</a>
         <img src="https://iphone-image.apkpure.com/v2/app/f/0/0/f00eeb410dfb42872b54e31c59b3bcfa.jpg" width="20">
         <br>
-        Frontend Developer at
-        <a href="https://phil-research.com/">Phil-Research</a>
-        <img src="https://media.giphy.com/media/LSie6zg2asKzfiPq8T/giphy.gif" width="50">
+        <strike>
+            Frontend Developer at
+            <a href="https://phil-research.com/">Phil-Research</a>
+            <img src="https://media.giphy.com/media/LSie6zg2asKzfiPq8T/giphy.gif" width="50">
+        </strike>
     </em>
 </p>
 
@@ -59,13 +61,14 @@ const Loume = {
         },
         backEnd: {
             php: ["Laravel"],
-            js: ["Node.js"]
+            js: ["Node.js"],
+            python: ["Flask"]
         },
         mobileApp: {
             native: ["Android Development"],
             uiToolkit: ["Flutter"]
         },
-        databases: ["mySQL"]
+        databases: ["mySQL", "mongoDB"]
     },
     currentFocus: "Frontend Development (React)"
 }
