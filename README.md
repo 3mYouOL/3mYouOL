@@ -9,7 +9,7 @@
 </h2>
 <p>
     <em>
-        Computer Science Student at
+        Computer Science Graduate at
         <a href="https://www.upv.edu.ph">UPV</a>
         <img src="https://iphone-image.apkpure.com/v2/app/f/0/0/f00eeb410dfb42872b54e31c59b3bcfa.jpg" width="20">
         <br>
