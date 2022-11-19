@@ -46,6 +46,7 @@ const Loume = {
     code: [
         "Python",
         "C",
+        "C++",
         "Java",
         "HTML",
         "CSS",
@@ -70,7 +71,7 @@ const Loume = {
         },
         databases: ["mySQL", "mongoDB"]
     },
-    currentFocus: "Frontend Development (React)"
+    currentFocus: "Mobile Game Development"
 }
 ```
 
