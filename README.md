@@ -47,6 +47,7 @@ const Loume = {
         "Python",
         "C",
         "C++",
+        "Objective-C"
         "Java",
         "HTML",
         "CSS",
@@ -66,7 +67,7 @@ const Loume = {
             python: ["Flask"]
         },
         mobileApp: {
-            native: ["Android Development"],
+            native: ["Android Development", "iOS Development"],
             uiToolkit: ["Flutter"]
         },
         databases: ["mySQL", "mongoDB"]
