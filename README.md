@@ -47,6 +47,7 @@ const Loume = {
         "Python",
         "C",
         "C++",
+        "C#",
         "Objective-C"
         "Java",
         "HTML",
@@ -63,14 +64,15 @@ const Loume = {
         },
         backEnd: {
             php: ["Laravel"],
-            js: ["Node.js"],
+            js: ["Node.js", "Astro"],
             python: ["Flask"]
         },
         mobileApp: {
             native: ["Android Development", "iOS Development"],
             uiToolkit: ["Flutter"]
         },
-        databases: ["mySQL", "mongoDB"]
+        databases: ["mySQL", "mongoDB"],
+        gameEngine: ["Unity"]
     },
     currentFocus: "Mobile Game Development"
 }
