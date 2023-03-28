@@ -30,46 +30,24 @@
 <br>
 
 ### My GitHub Stats
-<table border="0" width="100%">
-    <tr>
-        <td align="left" width="45%">
-            <a href="javascript:;">
-                <img width="100%" src="https://github-readme-stats.vercel.app/api?username=3myouol&count_private=true&show_icons=true&theme=dark" alt="3mYouOL's Github Stats">
-            </a>
-        </td>
-        <td width="55%">
-            &nbsp;
-        </td>
-    </tr>
-</table>
-<table border="0" width="100%">
-    <tr>
-        <td align="left" width="45%">
-            <a href="javascript:;">
-                <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=3mYouOL&theme=dark" alt="3mYouOL's Github Stats">
-            </a>
-        </td>
-        <td width="55%">
-            &nbsp;
-        </td>
-    </tr>
-</table>
+<p align="left">
+    <a href="javascript:;">
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=3myouol&count_private=true&show_icons=true&theme=dark" alt="3mYouOL's Github Stats">
+    </a>
+    <a href="javascript:;">
+        <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=3mYouOL&theme=dark" alt="3mYouOL's Github Stats">
+    </a>
+</p>
+
 
 <br>
 
 ### My Leetcode Stats
-<table border="0" width="100%">
-    <tr>
-        <td align="left" width="45%">
-            <a href="javascript:;">
-                <img width="100%" src="https://leetcard.jacoblin.cool/3myouol?hide=ranking" alt="3mYouOL's Leetcode Stats">
-            </a>
-        </td>
-        <td width="55%">
-            &nbsp;
-        </td>
-    </tr>
-</table>
+<p align="left">
+    <a href="javascript:;">
+        <img width="50%" src="https://leetcard.jacoblin.cool/3myouol?hide=ranking" alt="3mYouOL's Leetcode Stats">
+    </a>
+</p>
 
 
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230" align="right">
