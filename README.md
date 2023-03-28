@@ -27,16 +27,54 @@
 [![Discord: 3mYouOL](https://img.shields.io/badge/-3mYouOL-blue?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/318716945652383744)
 [![StackOverflow: 3mYouOL](https://img.shields.io/badge/-3mYouOL-orange?style=flat&logo=StackOverflow&logoColor=gray)](https://stackoverflow.com/users/12389225/3myouol)
 
-### My GitHub Stats
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=3myouol&count_private=true&show_icons=true&theme=dark" alt="3mYouOL's Github Stats">
-<div>
 <br>
-<div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=3mYouOL&theme=dark" alt="3mYouOL's Github Stats">
-<div>
+
+### My GitHub Stats
+<table width="100%">
+    <tr>
+        <td align="left" width="45%">
+            <a href="javascript:;">
+                <img width="100%" src="https://github-readme-stats.vercel.app/api?username=3myouol&count_private=true&show_icons=true&theme=dark" alt="3mYouOL's Github Stats">
+            </a>
+        </td>
+        <td width="55%">
+            &nbsp;
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <td align="left" width="45%">
+            <a href="javascript:;">
+                <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=3mYouOL&theme=dark" alt="3mYouOL's Github Stats">
+            </a>
+        </td>
+        <td width="55%">
+            &nbsp;
+        </td>
+    </tr>
+</table>
+
+<br>
+
+### My Leetcode Stats
+<table width="100%">
+    <tr>
+        <td align="left" width="45%">
+            <a href="javascript:;">
+                <img width="100%" src="https://leetcard.jacoblin.cool/3myouol?hide=ranking" alt="3mYouOL's Leetcode Stats">
+            </a>
+        </td>
+        <td width="55%">
+            &nbsp;
+        </td>
+    </tr>
+</table>
+
 
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230" align="right">
+
+<br>
 
 ### <img src="https://media.giphy.com/media/lTS1DjozKdTKhpH6lv/giphy.gif" width="50"> Some details about me...
 
