@@ -46,8 +46,6 @@
 
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230" align="right">
 
-<br>
-
 ### <img src="https://media.giphy.com/media/lTS1DjozKdTKhpH6lv/giphy.gif" width="50"> Some details about me...
 
 ```javascript
