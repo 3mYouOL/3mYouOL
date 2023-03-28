@@ -27,8 +27,6 @@
 [![Discord: 3mYouOL](https://img.shields.io/badge/-3mYouOL-blue?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/318716945652383744)
 [![StackOverflow: 3mYouOL](https://img.shields.io/badge/-3mYouOL-orange?style=flat&logo=StackOverflow&logoColor=gray)](https://stackoverflow.com/users/12389225/3myouol)
 
-<br>
-
 ### My GitHub Stats
 <p align="left">
     <a href="javascript:;">
@@ -39,16 +37,12 @@
     </a>
 </p>
 
-
-<br>
-
 ### My Leetcode Stats
 <p align="left">
     <a href="javascript:;">
         <img width="50%" src="https://leetcard.jacoblin.cool/3myouol?hide=ranking" alt="3mYouOL's Leetcode Stats">
     </a>
 </p>
-
 
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="230" align="right">
 
