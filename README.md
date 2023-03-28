@@ -30,7 +30,7 @@
 <br>
 
 ### My GitHub Stats
-<table width="100%">
+<table border="0" width="100%">
     <tr>
         <td align="left" width="45%">
             <a href="javascript:;">
@@ -42,7 +42,7 @@
         </td>
     </tr>
 </table>
-<table>
+<table border="0" width="100%">
     <tr>
         <td align="left" width="45%">
             <a href="javascript:;">
@@ -58,7 +58,7 @@
 <br>
 
 ### My Leetcode Stats
-<table width="100%">
+<table border="0" width="100%">
     <tr>
         <td align="left" width="45%">
             <a href="javascript:;">
