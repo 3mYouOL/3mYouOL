@@ -30,7 +30,7 @@
 ### My GitHub Stats
 <p align="left">
     <a href="javascript:;">
-        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=3myouol&count_private=true&show_icons=true&theme=dark" alt="3mYouOL's Github Stats">
+        <img width="50%" src="https://github-readme-stats-clone-liard.vercel.app/api?username=3myouol&count_private=true&show_icons=true&theme=dark" alt="3mYouOL's Github Stats">
     </a>
     <a href="javascript:;">
         <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=3mYouOL&theme=dark" alt="3mYouOL's Github Stats">
